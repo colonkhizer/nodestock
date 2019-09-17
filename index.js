@@ -1,3 +1,5 @@
+// NodeStock App By S M Khizer
+
 const express = require("express");
 const path = require("path");
 var exphbs = require("express-handlebars");
